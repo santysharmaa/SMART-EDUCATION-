@@ -1,5 +1,5 @@
-# SMART-EDUCATION-Smart Education Web Page
-Overview
+# SMART-EDUCATION
+
 Welcome to the Smart Education Web Page repository! This web page is designed to provide an intuitive platform for users to explore and purchase online courses. Whether you're a student looking to enhance your skills or an instructor wanting to share knowledge, our platform has you covered.
 
 Features
